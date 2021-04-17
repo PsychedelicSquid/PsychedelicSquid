@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PsychedelicSquid
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on game projects that use pygame and/or tcod
+- 📫 How to reach me - joel-nick@hotmail.com
